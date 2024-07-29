@@ -1,6 +1,6 @@
-ULA 32 Bits em VHDL 
+# ULA 32 Bits em VHDL 
 
-Descrição
+## Descrição
 Este projeto implementa uma Unidade Lógica Aritmética (ULA) de 32 bits utilizando VHDL. A ULA é responsável por executar operações aritméticas e lógicas básicas em dois operandos de 32 bits e produzir um resultado de 32 bits. As operações suportadas incluem adição, subtração, AND, OR e NOT.
 Funcionalidades
 Operações Aritméticas:
@@ -12,17 +12,17 @@ AND
 OR
 NOT
 
-Arquitetura
+## Arquitetura
 A ULA é composta pelos seguintes componentes principais:
 
-Entradas:
+### Entradas:
 
 A, B: Operandos de 32 bits
 Sel: Sinal de controle para selecionar a operação desejada
 SelB: Sinal de controle para inverter um dos operandos
 Cin: Bit de entrada para operações de adição/subtração
 
-Saídas:
+### Saídas:
 
 Cout: Bit de saida para operações de adição/subtração
 Result: Resultado da operação de 32 bits
