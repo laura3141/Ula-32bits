@@ -86,7 +86,7 @@ begin
       a => a,
       b => sinal_6,
       carry_in => carry_in,
-      soma => sinal_1, -- Sinal de soma corrigido
+      soma => sinal_1,
       carry_out => carry_out
     );
 
