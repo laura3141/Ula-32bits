@@ -49,7 +49,7 @@ architecture ula_arch of U_ula is
         s: out std_logic);
     end component;
     
-	signal sinal_1: std_logic;-- soma
+    signal sinal_1: std_logic;-- soma
     signal sinal_2: std_logic;--and
     signal sinal_3: std_logic;--or
     signal sinal_4: std_logic;--not a
