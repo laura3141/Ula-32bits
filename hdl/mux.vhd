@@ -11,8 +11,8 @@ architecture arch_mux of mux is
 begin
   with sel select --sel e a expressao de selecao
   s <= e1 when "00",
-  	e2 when "01",
-    e3 when "10",
-    e4 when others;
+      e2 when "01",
+      e3 when "10",
+      e4 when others;
   
 end arch_mux;
