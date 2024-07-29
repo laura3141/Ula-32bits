@@ -6,8 +6,8 @@ Este projeto implementa uma Unidade Lógica Aritmética (ULA) de 32 bits utiliza
 ## Funcionalidades
 
 ### Operações Aritméticas
--Adição
--Subtração
+- Adição
+- Subtração
 
 ### Operações Lógicas
 - AND
